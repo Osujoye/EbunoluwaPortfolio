@@ -110,7 +110,7 @@ export function Hero() {
               <div className="absolute inset-0 bg-gradient-to-r from-primary/20 to-accent/20 rounded-full blur-3xl"></div>
               <div className="relative w-full h-full bg-gradient-to-br from-primary/10 to-accent/10 rounded-full flex items-center justify-center border border-border">
                 <ImageWithFallback
-                  src="public/ebun.jpg"
+                  src="ebun.jpg"
                   alt="ebunoluwa"
                   className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover border-4 border-background shadow-xl"
                 />
